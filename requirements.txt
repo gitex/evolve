@@ -1,0 +1,5 @@
+numpy == 1.24.1
+pygame
+pytest == 7.2.1
+pytest-repeat == 0.9.1
+cogsci
